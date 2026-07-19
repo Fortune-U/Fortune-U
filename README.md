@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Fortune.<br><br>
-Senior Frontend Engineer building products where mistakes are expensive: payments, credit, and emergency healthcare.<br><br>
-Right now I work on a CBN licensed payment gateway at Airgate and own five product modules on Pluck, a credit based device financing platform by Reeddi. Before that I led a frontend team of five at 8medical.<br><br>
+Senior Frontend Engineer building products where mistakes are expensive: payments, credit, and healthcare.<br><br>
+I ship web with React, Next.js, and TypeScript, and mobile with React Native and Capacitor. I care about API layer design, forms that survive real users, and interfaces that handle money carefully.<br><br>
 🔭 Currently shipping: [Baz AI](https://apps.apple.com/ng/app/baz-ai/id6761541672), an AI nutrition assistant on the App Store, and [Invoicely](https://github.com/Fortune-U/invoicely), an open source document studio for freelancers.<br>
 ✍️ I write about frontend architecture on [my portfolio](https://saturn-portfolio.vercel.app)
 
